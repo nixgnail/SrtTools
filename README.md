@@ -8,15 +8,15 @@ Free online subtitle one-stop tool set to find a partner for your foreign subtit
  - Support more accurate manual translation。
  - Support modifying the original subtitle file before translation
  - Export bilingual (Chinese + English) subtitle files
-##Stack
+## Stack
 - Vue 3
 - Typescript
 - Vite
 - SRTJS
-##Contact
+## Contact
  - Email:nixgnail@163.com
  - MicroMsg:13700228563
-##Shootscreen
+## Shootscreen
 
 
 
