@@ -1,11 +1,22 @@
-# Vue 3 + Typescript + Vite
+# Online SUbtitle Tools
+## Overview
+Free online subtitle one-stop tool set to find a partner for your foreign subtitle free movies. More functions are under development, and interested partners can complete them together. It is purely a personal hobby. Welcome to communicate, learn and make progress together.
+## Features
+ - Drag a subtitle file(.srt) to parse.
+ - Translate english subtitle to Zh whit line.
+ - Speech the english subtitle for learn.
+ - Support more accurate manual translation。
+ - Support modifying the original subtitle file before translation
+ - Export bilingual (Chinese + English) subtitle files
+##Stack
+- Vue 3
+- Typescript
+- Vite
+- SRTJS
+##Contact
+ - Email:nixgnail@163.com
+ - MicroMsg:13700228563
+##Shootscreen
 
-This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
-
-## Type Support For `.vue` Imports in TS
-
-Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's `.vue` type support plugin by running `Volar: Switch TS Plugin on/off` from VSCode command palette.
